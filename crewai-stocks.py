@@ -143,10 +143,10 @@ crew = Crew(
 )
 
 
-results = crew.kickoff(inputs={'ticket': 'AAPL'})
+#results = crew.kickoff(inputs={'ticket': 'AAPL'})
 
 
-results['final_output']
+#results['final_output']
 
 
 with st.sidebar:
